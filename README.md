@@ -55,9 +55,11 @@ interesses/
 - [Conversor-Binario-Decimal](https://github.com/glh-rm3/Conversor-Binario-Decimal) — Conversões numéricas em C++ `C++`
 ---
 
-## $ cat ~/.contatos
+## $ `cat ~/.contatos`
  * **Email:** gametguito@gmail.com
  * **Instagram:** @glh_rm3
+---
+
 
 <div align="center">
 
