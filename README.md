@@ -57,7 +57,7 @@ interesses/
 
 ## $ cat ~/.contatos
  * **Email:** gametguito@gmail.com
- * **Instagram:** @glh-rm3
+ * **Instagram:** @glh_rm3
 
 <div align="center">
 
