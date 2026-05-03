@@ -1,5 +1,5 @@
 ```text
-       _ _                              ____  
+       _ _                           ____  
  __ _| | |__         _ __ _ __ ___   |__ / 
 / _` | | '_ \ _____ | '__| '_ ` _ \   |_ \ 
 |(_| | | | | |_____|| |  | | | | | | ___) |
@@ -55,12 +55,9 @@ interesses/
 - [Conversor-Binario-Decimal](https://github.com/glh-rm3/Conversor-Binario-Decimal) — Conversões numéricas em C++ `C++`
 ---
 
-## `$ cat ~/.contatos`
-
--
-Email: gametguito@gmail.com
-Instagram: @glh-rm3
----
+## $ cat ~/.contatos
+ * **Email:** gametguito@gmail.com
+ * **Instagram:** @glh-rm3
 
 <div align="center">
 
