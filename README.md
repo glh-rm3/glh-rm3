@@ -1,16 +1,59 @@
-## Hi there 👋
+██████╗ ██╗     ██╗  ██╗      ██████╗ ███╗   ███╗██████╗ 
+██╔════╝ ██║     ██║  ██║     ██╔══██╗████╗ ████║╚════██╗
+██║  ███╗██║     ███████║     ██████╔╝██╔████╔██║ █████╔╝
+██║   ██║██║     ██╔══██║     ██╔══██╗██║╚██╔╝██║ ╚═══██╗
+╚██████╔╝███████╗██║  ██║     ██║  ██║██║ ╚═╝ ██║██████╔╝
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝
 
-<!--
-**glh-rm3/glh-rm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center">
+Cursando o 3º semestre do bacharelado em Sistemas de Informação
+na Universidade Estadual de Mato Grosso do Sul.
+</div>
 
-Here are some ideas to get you started:
+## `whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Apaixonado por computadores, sistemas operacionais,
+segurança e tenho mais familiaridade com a linguagem C, atualmente.
+```
+
+---
+
+## `$ tree ~/interesses/`
+
+```
+interesses/
+├── tecnico/
+│   ├── sistemas_operacionais.txt
+│   ├── desenvolvimento.txt
+│   └── seguranca_da_informacao.txt
+└── filosofia/
+    ├── software_livre.txt
+    └── gnu_linux.txt
+```
+
+---
+
+## `$ cat ~/habilidades.md`
+
+| Linguagem | Nível |
+|-----------|-------|
+| C         | Intermediário / em progresso |
+| C++       | Básico / em progresso |
+
+---
+
+## `$ ls ~/repositorios/`
+
+- [t1-so-dispositivos-es](https://github.com/glh-rm3/t1-so-dispositivos-es) — Keylogger acadêmico (SO/UEMS) `C`
+- [UEMS](https://github.com/glh-rm3/UEMS) — Atividades da UEMS `C`
+- [uems-computacao-verde](https://github.com/glh-rm3/uems-computacao-verde) — TI Verde `—`
+- [Daily-Task-Manager](https://github.com/glh-rm3/Daily-Task-Manager) — Estudos de C++ `C++`
+- [Conversor-Binario-Decimal](https://github.com/glh-rm3/Conversor-Binario-Decimal) — Conversões numéricas em C++ `C++`
+---
+
+<div align="center">
+
+`$ echo "Free as in freedom."`
+
+</div>
