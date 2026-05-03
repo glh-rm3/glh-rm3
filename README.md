@@ -6,6 +6,7 @@
 \__, |_|_| |_|      |_|  |_| |_| |_||____/ 
 |___/                                      
 
+```
 
  <div align="center">
 Cursando o 3º semestre do bacharelado em Sistemas de Informação
@@ -52,6 +53,13 @@ interesses/
 - [uems-computacao-verde](https://github.com/glh-rm3/uems-computacao-verde) — TI Verde `—`
 - [Daily-Task-Manager](https://github.com/glh-rm3/Daily-Task-Manager) — Estudos de C++ `C++`
 - [Conversor-Binario-Decimal](https://github.com/glh-rm3/Conversor-Binario-Decimal) — Conversões numéricas em C++ `C++`
+---
+
+## `$ cat ~/.contatos`
+
+-
+Email: gametguito@gmail.com
+Instagram: @glh-rm3
 ---
 
 <div align="center">
