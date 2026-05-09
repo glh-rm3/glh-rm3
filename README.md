@@ -16,8 +16,7 @@ na Universidade Estadual de Mato Grosso do Sul.
 ## `whoami`
 
 ```
-Apaixonado por computadores, sistemas operacionais,
-segurança e tenho mais familiaridade com a linguagem C, atualmente.
+Apaixonado por computadores, sistemas operacionais e cibersegurança.
 ```
 
 ---
@@ -34,15 +33,6 @@ interesses/
     ├── software_livre.txt
     └── gnu_linux.txt
 ```
-
----
-
-## `$ cat ~/habilidades.md`
-
-| Linguagem | Nível |
-|-----------|-------|
-| C         | Intermediário / em progresso |
-| C++       | Básico / em progresso |
 
 ---
 
